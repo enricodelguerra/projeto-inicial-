@@ -1,6 +1,7 @@
 /*Este é um comentário em CSS*/
 h1 {
     color: red;
+    font-family:sans-serif;
 }
 .link{
     display: inline;
