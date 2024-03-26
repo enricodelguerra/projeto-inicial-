@@ -16,3 +16,9 @@ font-family:sans-serif;
 nav{
 font-weight:bold;
 }
+.container{
+    margin: 20px;;
+}
+.conteudo{
+    padding:1.5;
+}
