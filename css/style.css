@@ -22,3 +22,8 @@ font-weight:bold;
 .conteudo{
     padding:1.5;
 }
+form{
+    border: 1px;
+    background-color:gray;
+    padding: 10px;
+}
