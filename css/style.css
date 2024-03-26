@@ -1,7 +1,7 @@
 /*Este é um comentário em CSS*/
 h1 {
     color: red;
-    font-family:sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
 .link{
     display: inline;
@@ -11,7 +11,7 @@ header{
     background-color:blue
 }
 h2{
-font-family:sans-serif;
+font-family:'Times New Roman', Times, serif;
 }
 nav{
 font-weight:bold;
